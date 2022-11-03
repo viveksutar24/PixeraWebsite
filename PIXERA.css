@@ -1,0 +1,594 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(back2.webp);
+    /* background-size: contain; */
+}
+
+
+.aa {
+    color: yellow;
+}
+
+ul a {
+    margin-right: 50px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-top: 50px;
+    font-size: 15px;
+    padding-right: 50px;
+    font-size: 18px;
+}
+
+
+ul {
+    padding-top: 30px;
+}
+
+li {
+    display: inline;
+    /* padding: 10px; */
+    /* padding-top: 29px; */
+    /* list-style: none; */
+}
+
+li a:hover {
+    color: yellow;
+}
+
+span {
+    font-size: 30px;
+    /* margin-right: 180px; */
+    color: white;
+    text-shadow: 4px 1px rgb(79, 151, 94);
+}
+
+.we {
+    font-size: 60px;
+    color: white;
+    padding-top: 150px;
+    padding-left: 90px;
+    font-weight: 90px;
+    /* border: 2px solid rgb(255, 255, 255); */
+}
+
+.web {
+    font-size: 70px;
+    color: skyblue;
+    padding-left: 90px;
+    margin-bottom: 10px;
+    font-weight: 900px;
+    /* border: 1px solid rgb(255, 255, 255); */
+
+
+
+}
+
+.agency {
+    font-size: 70px;
+    color: white;
+    font-weight: 900px;
+
+
+}
+
+.p1 {
+    font-size: 20px;
+
+    /* border: 2px solid black; */
+    width: 590px;
+    margin-left: 90px;
+    color: white;
+    font-weight: 1700px;
+
+}
+
+.contact {
+    /* border: 2px solid black; */
+    margin-top: 20px;
+    margin-left: 90px;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: midnightblue;
+}
+
+.contact:hover {
+    background-color: yellowgreen;
+}
+
+.contact a {
+    text-decoration-style: none;
+}
+
+.continue {
+    padding-left: 90px;
+    color: white;
+}
+
+#main a {
+    text-decoration: none;
+}
+
+.continue:hover {
+    color: darkgoldenrod;
+}
+
+.believe {
+    color: rgb(0, 255, 85);
+    position: absolute;
+    left: 90px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+
+.our {
+    position: absolute;
+    left: 90px;
+    margin-top: 90px;
+    font-size: 50px;
+    color: white;
+    /* border: 2px solid black; */
+
+
+}
+
+#article {
+    /* display: flex; */
+    /* border: 2px solid rgb(255, 255, 255); */
+    height: 550px;
+    /* height: auto; */
+    position: relative;
+
+
+
+
+}
+
+#box1 {
+    border: 2px solid rgb(255, 255, 255);
+    height: 150px;
+    width: 500px;
+    /* margin-top: 20px; */
+    /* flex: 2; */
+    float: left;
+    position: absolute;
+    left: 150px;
+    margin: 20px;
+    position: center;
+    padding: 20px;
+
+
+}
+
+.p2 {
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+}
+
+.goal {
+    font-size: 30px;
+    color: white;
+    /* display: inline-flex; */
+
+}
+
+.p3 {
+    color: white;
+}
+
+#box2 {
+    border: 2px solid rgb(251, 244, 244);
+    height: 150px;
+    margin-top: 5px;
+    flex: 2;
+    /* float: left; */
+    width: 500px;
+    margin: 20px;
+    position: absolute;
+    left: 750px;
+    padding: 20px;
+
+
+
+
+}
+
+.p4 {
+    text-align: center;
+    color: white;
+}
+
+.stop {
+    font-size: 30px;
+    color: white;
+
+}
+
+.p5 {
+    color: white;
+}
+
+#box3 {
+    border: 2px solid rgb(251, 244, 244);
+    /* height: 200px; */
+    /* margin-top: 95px;
+    margin-top: 20px; */
+    /* flex: 2; */
+    float: left;
+    width: 500px;
+    height: 150px;
+    margin: 20px;
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    padding: 20px;
+    margin-top: 30px;
+
+
+
+
+
+}
+
+.p6 {
+    text-align: center;
+    color: white;
+}
+
+.highest {
+    font-size: 30px;
+    color: white;
+
+}
+
+.p7 {
+    color: white;
+}
+
+#box4 {
+    border: solid 2px rgb(255, 255, 255);
+    height: 150px;
+    /* margin-top: 20px; */
+    /* flex: 2; */
+    float: left;
+    width: 500px;
+    margin: 20px;
+    position: absolute;
+    top: 200px;
+    /* right: 600px; */
+    left: 750px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.p8 {
+    text-align: center;
+    color: white;
+}
+
+.commited {
+    font-size: 30px;
+    color: white;
+}
+
+.p9 {
+    color: white;
+}
+
+#box1:hover {
+    background-color: rgb(78, 61, 61);
+    box-shadow: 20px 20px 100px 15px rgb(82, 84, 185);
+}
+
+#box2:hover {
+    background-color: rgb(18, 230, 226);
+    box-shadow: 20px 20px 100px 15px rgb(82, 84, 185);
+}
+
+#box3:hover {
+    background-color: rgb(29, 156, 58);
+    box-shadow: 20px 20px 100px 15px rgb(82, 84, 185);
+}
+
+#box4:hover {
+    background-color: rgb(250, 26, 138);
+    box-shadow: 20px 20px 100px 15px rgb(82, 84, 185);
+}
+
+#success {
+    /* border: 2px solid rgb(255, 255, 255); */
+    width: 500px;
+    height: 300px;
+    /* background-color: rgb(122,150, 150); */
+    position: absolute;
+    left: 170px;
+    top: 700px;
+    /* display: block; */
+}
+
+#main2 {
+    padding-top: 0px;
+    /* border: 2px solid black; */
+    /* width: 800px; */
+    /* height: 800px; */
+
+}
+
+
+.mission {
+    color: rgb(0, 255, 85);
+    font-size: x-large;
+    font-weight: 40px;
+    padding-bottom: 10px;
+
+}
+
+.mission2 {
+    color: white;
+    font-size: xx-large;
+    font-weight: 90px;
+    padding-bottom: 20px;
+
+}
+
+.mission3 {
+    color: white;
+    font-weight: 90px;
+    font-size: 20px;
+
+}
+
+.client {
+
+    border: 4px solid rgb(255, 255, 255);
+    width: 250px;
+    height: 200px;
+    position: relative;
+    border-color: blue;
+    left: 850px;
+    z-index: 1;
+    bottom: 410px;
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    background-color: rgb(33, 37, 82);
+    padding: 20px;
+    /* box-shadow: 20px 20px 150px rgb(126, 94, 214); */
+}
+
+.client1 {
+    font-size: 40px;
+    text-shadow: 2px 0;
+    padding-top: 20px;
+    color: skyblue;
+
+}
+
+.client2 {
+    font-size: 30px;
+}
+
+.project {
+
+    border: 4px solid rgb(255, 252, 252);
+    border-color: blue;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    left: 630px;
+    bottom: 450px;
+    text-align: center;
+    z-index: -3;
+    padding: 20px;
+    background-color: rgb(33, 37, 82);
+    /* box-shadow: 20px 20px 150px rgb(145, 135, 172); */
+
+}
+
+.project1 {
+    font-size: 40px;
+    text-shadow: 2px 0;
+    padding-top: 20px;
+    color: skyblue;
+
+}
+
+.project2 {
+    font-size: 30px;
+    color: white;
+}
+
+.experience {
+
+    border: 4px solid rgb(255, 255, 255);
+    width: 250px;
+    border-color: blue;
+    text-align: center;
+    height: 200px;
+    position: relative;
+    left: 850px;
+    bottom: 500px;
+    z-index: 2;
+    padding: 20px;
+    background-color: rgb(33, 37, 82);
+    /* box-shadow: 20px 20px 150px rgb(126, 94, 214); */
+}
+
+.experince1 {
+    font-size: 40px;
+    text-shadow: 2px 0;
+    padding-top: 20px;
+    color: skyblue;
+}
+
+.experince2 {
+    font-size: 30px;
+    color: white;
+}
+
+#message {
+    border: 1px solid white;
+    width: 1000px;
+    height: 190px;
+    position: absolute;
+    top: 590px;
+    /* padding-top: 40PX; */
+    padding: 50px;
+    background-color: darkcyan;
+    border-color: darkcyan;
+}
+
+.message1 {
+    color: white;
+    padding-top: 10px;
+}
+
+.message2 {
+    color: white;
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+span {
+    color: white;
+    text-align: right;
+    margin: 30PX;
+}
+
+#hero {
+    /* border: 10px solid rgb(255, 140, 0); */
+    padding-left: 90px;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 1700px;
+
+}
+
+#hero1 {
+    /* border: 2px solid rgb(234, 12, 12); */
+    height: 150px;
+    margin-top: 30px;
+    width: 290px;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.studio {
+    color: rgb(0, 252, 59);
+}
+
+.studio1 {
+    color: white;
+    padding-top: 30px;
+    /* font-weight: 990px; */
+}
+
+#hero2 {
+    /* border: solid 2px rgb(0, 255, 17); */
+    width: 250px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+    bottom: 200px;
+    margin-left: 40px;
+}
+
+.studio2 li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    font-size: 20px;
+
+}
+
+.studio2 li a:hover {
+    color: rgb(0, 231, 73);
+}
+
+#hero3 {
+    /* border: solid rgb(255, 4, 226) 2px; */
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    bottom: 200px;
+    left: 700px;
+    margin-left: 150px;
+
+}
+
+.studio3 li a {
+    color: white;
+    padding: 5px;
+    display: block;
+    font-size: 20px;
+    bottom: auto;
+}
+
+.studio3 li a:hover {
+    color: rgb(0, 231, 73);
+}
+
+#hero4 {
+    /* border: 2px solid pink; */
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    bottom: 200px;
+    right: 90px;
+}
+
+.studio4 li a {
+    font-size: 20px;
+}
+
+.studio4 {
+    display: block;
+    margin-top: 0;
+    position: absolute;
+    padding-left:150px 
+
+    
+
+}
+
+/* .studio4 li img:hover{
+    background-color: yellow;
+} */
+.footer2 {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.597);
+    width: 100%;
+    color: white;
+    position: absolute;
+    top: 3000px;
+    height: 40px;
+    /* padding: 20px; */
+    font-weight: bolder;
+    padding-top: 15px;
+
+}
+
+.chat1 {
+    font-size: x-large;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: silver;
+    position: absolute;
+    top: 550px;
+    left: 50px;
+    color: white;
+    background-color: rgb(0, 89, 255);
+    opacity: 0.5;
+}
+
+.chat1:hover {
+    opacity: 1.0;
+}
